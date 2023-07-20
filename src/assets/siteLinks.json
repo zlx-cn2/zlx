@@ -2,27 +2,27 @@
   [
     {
       "icon": "Blog",
-      "name": "博客",
-      "link": "https://blog.imsyy.top/"
+      "name": "智能对话",
+      "link": "http://z-ai.weie.pro/"
     },
     {
       "icon": "Cloud",
-      "name": "网盘",
-      "link": "https://pan.imsyy.top/"
+      "name": "网盘-待开发",
+      "link": "#"
     },
     {
       "icon": "CompactDisc",
       "name": "音乐",
-      "link": "https://music.imsyy.top/"
+      "link": "https://tonzhon.com/"
     },
     {
       "icon": "Compass",
-      "name": "起始页",
+      "name": "待开发",
       "link": "https://nav.imsyy.top/"
     },
     {
       "icon": "Book",
-      "name": "网址集",
+      "name": "待开发",
       "link": "https://web.imsyy.top/"
     },
     {
